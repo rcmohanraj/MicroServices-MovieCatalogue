@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro-service-movie-catalogue.iml" filepath="$PROJECT_DIR$/.idea/micro-service-movie-catalogue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroServicesConfigClient/micro-services-config.iml" filepath="$PROJECT_DIR$/MicroServicesConfigClient/micro-services-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieCatalogueService/movie-catalogue-service.iml" filepath="$PROJECT_DIR$/MovieCatalogueService/movie-catalogue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieEurekaServer/movie-eureka-server.iml" filepath="$PROJECT_DIR$/MovieEurekaServer/movie-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieInfoService/movie-info-service.iml" filepath="$PROJECT_DIR$/MovieInfoService/movie-info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingDataService/rating-data-service.iml" filepath="$PROJECT_DIR$/RatingDataService/rating-data-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudConfigServer/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/SpringCloudConfigServer/spring-cloud-config-server.iml" />
+    </modules>
+  </component>
+</project>
